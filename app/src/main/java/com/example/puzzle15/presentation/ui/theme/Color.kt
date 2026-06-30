@@ -1,4 +1,4 @@
-package com.example.puzzle15.ui.theme
+package com.example.puzzle15.view.theme
 
 import androidx.compose.ui.graphics.Color
 
